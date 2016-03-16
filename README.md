@@ -13,3 +13,7 @@ More information to come..
 
 Roadmap for application
 ............
+Multiple languages - Spanish, English Australian
+Feedback text
+Text store search
+
