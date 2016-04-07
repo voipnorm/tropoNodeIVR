@@ -8,11 +8,11 @@ More information to come..
 Roadmap for application
 ............
 
-Multiple languages - Spanish, English Australian..
+Multiple languages - Spanish, English Australian..added 4/4/2016
 
-Feedback SMS..
+Feedback SMS..Coming
 
-SMS store search..
+SMS store search.. added 4/4/2016
 
 Better Error logging using tropo.on method..
 
